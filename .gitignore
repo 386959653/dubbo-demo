@@ -2,3 +2,11 @@
 /dubbo-api/target/
 /dubbo-consumer/target/
 /dubbo-provider/target/
+/common/target/
+
+### IntelliJ IDEA ###
+*.iws
+*.iml
+*.ipr
+/.idea/
+
