@@ -1,0 +1,6 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+T
+java:S1854"7Remove this useless assignment to local variable "map".(ƒ¢Œó8ªÅÎŽ¼.
+T
+java:S3752">Add a "method" parameter to this "@RequestMapping" annotation.(¶¤¶Ã
