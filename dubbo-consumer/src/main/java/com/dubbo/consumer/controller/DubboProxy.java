@@ -19,9 +19,6 @@ import java.util.concurrent.ConcurrentMap;
  */
 @Component
 public class DubboProxy {
-//    @Autowired
-//    private static DubboProperties dubboProperties;
-
     // ReferenceConfig实例很重，缓存
     private static ConcurrentMap<String, ReferenceConfig<GenericService>> CACHE = new ConcurrentHashMap<>();
 
